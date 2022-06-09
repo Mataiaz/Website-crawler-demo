@@ -1,4 +1,4 @@
-# How to test #
+How to test:
 All you need to be careful with is to have the correct file with the correct format if you
 are checking more than 1 file.
 
@@ -7,5 +7,5 @@ You are welcome to create your own excel file just be sure to refrence it in the
 
 Also to start the program just double click the jar file
 
-## Contact ##
+Contact:
 mathias344@live.no
